@@ -1,0 +1,9 @@
+0x0800658a in core::ptr::read_volatile::precondition_check (addr=0xe000e010, align=4) at /Users/changzehai/.rustup/toolchains/stable-aarch64-apple-darwin/lib/rustlib/src/rust/library/core/src/ub_checks.rs:68
+68	            const fn precondition_check($($name:$ty),*) {
+Resetting target
+Loading section .vector_table, size 0x188 lma 0x8000000
+Loading section .text, size 0x6f8c lma 0x8000188
+Loading section .rodata, size 0x101c lma 0x8007114
+Start address 0x08000188, load size 33072
+Transfer rate: 264576 bits in <1 sec, 11024 bytes/write.
+Resetting target

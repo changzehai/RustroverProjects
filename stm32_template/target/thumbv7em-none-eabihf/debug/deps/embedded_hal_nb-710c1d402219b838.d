@@ -1,0 +1,7 @@
+/Users/changzehai/RustroverProjects/RustroverProjects/stm32_template/target/thumbv7em-none-eabihf/debug/deps/embedded_hal_nb-710c1d402219b838.d: /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/lib.rs /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/serial.rs /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/spi.rs
+
+/Users/changzehai/RustroverProjects/RustroverProjects/stm32_template/target/thumbv7em-none-eabihf/debug/deps/libembedded_hal_nb-710c1d402219b838.rmeta: /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/lib.rs /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/serial.rs /Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/spi.rs
+
+/Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/lib.rs:
+/Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/serial.rs:
+/Users/changzehai/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-4dc01642fd091eda/embedded-hal-nb-1.0.0/src/spi.rs:

@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration
+      default="false"
+      name="J-Link Debug"
+      type="RsRemoteRunConfiguration"
+      debuggerKind="USER_GDB"
+      userDebuggerPath="/Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/bin/arm-none-eabi-gdb"
+      remoteCommand="localhost:2331"
+      symbolFile="$PROJECT_DIR$/target/thumbv7em-none-eabihf/debug/__rustrover_current.elf"
+      sysroot="">
+    <method v="2">
+      <option
+          name="RunConfigurationTask"
+          enabled="true"
+          run_configuration_name="J-Link Server"
+          run_configuration_type="ShConfigurationType" />
+    </method>
+  </configuration>
+</component>
