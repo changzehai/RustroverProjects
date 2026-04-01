@@ -25,19 +25,19 @@ fn main() -> ! {
 
     loop {
         led1.set_high();
-        delay.delay_ms(500);
+        delay.delay_ms(300);
         led1.set_low();
 
         led2.set_high();
-        delay.delay_ms(500);
+        delay.delay_ms(300);
         led2.set_low();
 
         led3.set_high();
-        delay.delay_ms(500);
+        delay.delay_ms(300);
         led3.set_low();
 
         led4.set_high();
-        delay.delay_ms(500);
+        delay.delay_ms(300);
         led4.set_low();
     }
 }
